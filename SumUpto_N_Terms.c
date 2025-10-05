@@ -1,4 +1,4 @@
-//WAP to print the sum of all numbers upto a given number n.
+//WAP to print the sum of all numbers upto a given number n(Positive Number).
 
 #include<stdio.h>
 
